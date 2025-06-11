@@ -43,7 +43,6 @@ Disable-WindowsService -ServiceName "dmwappushservice" -DisplayName "Data Collec
 Disable-WindowsService -ServiceName "PcaSvc" -DisplayName "Program Compatibility Assistant Service"
 Disable-WindowsService -ServiceName "RemoteRegistry" -DisplayName "Remote Registry"
 Disable-WindowsService -ServiceName "TrkWks" -DisplayName "Distributed Link Tracking Client"
-Disable-WindowsService -ServiceName "LanmanServer" -DisplayName "Server"
 Disable-WindowsService -ServiceName "bthserv" -DisplayName "Bluetooth Support Service"
 Disable-WindowsService -ServiceName "stisvc" -DisplayName "Windows Image Acquisition"
 Disable-WindowsService -ServiceName "SCardSvr" -DisplayName "Smart Card"
